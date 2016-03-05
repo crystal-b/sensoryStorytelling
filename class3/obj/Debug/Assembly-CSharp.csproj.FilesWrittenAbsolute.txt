@@ -1,0 +1,17 @@
+/Users/crys/Dropbox/ITP/sensoryStorytelling/class3/Temp/bin/Debug/UnityEngine.dll
+/Users/crys/Dropbox/ITP/sensoryStorytelling/class3/Temp/bin/Debug/UnityEditor.dll
+/Users/crys/Dropbox/ITP/sensoryStorytelling/class3/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/crys/Dropbox/ITP/sensoryStorytelling/class3/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/crys/Dropbox/ITP/sensoryStorytelling/class3/Temp/bin/Debug/Mono.Cecil.dll
+/Users/crys/Dropbox/ITP/sensoryStorytelling/class3/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/crys/Dropbox/ITP/sensoryStorytelling/class3/Temp/bin/Debug/Unity.DataContract.dll
+/Users/crys/Dropbox/ITP/sensoryStorytelling/class3/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/crys/Dropbox/ITP/sensoryStorytelling/class3/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/crys/Dropbox/ITP/sensoryStorytelling/class3/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/crys/Dropbox/ITP/sensoryStorytelling/class3/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/crys/Dropbox/ITP/sensoryStorytelling/class3/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/crys/Dropbox/ITP/sensoryStorytelling/class3/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/crys/Dropbox/ITP/sensoryStorytelling/class3/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/crys/Dropbox/ITP/sensoryStorytelling/class3/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/crys/Dropbox/ITP/sensoryStorytelling/class3/obj/Debug/Assembly-CSharp.dll
+/Users/crys/Dropbox/ITP/sensoryStorytelling/class3/obj/Debug/Assembly-CSharp.dll.mdb
